@@ -1,0 +1,8 @@
+.childrens{
+    color: green;
+    overflow: hidden;
+    border: 1px solid rgb(26, 216, 42);
+    border-radius: 12px;
+    padding: 1rem 2rem;
+    margin-top:1rem;
+}

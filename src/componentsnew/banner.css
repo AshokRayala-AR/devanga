@@ -1,0 +1,39 @@
+.banner{
+    height: 140vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    margin-top: 15.2vh; 
+    overflow-y: hidden;
+    position: relative;
+    z-index: 1;
+  }
+  .banner img{
+    width: 100vw;
+  }
+  .banner .text-box{
+    position: absolute;
+    word-wrap: break-word;
+    width: 100vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    color: white;
+    z-index: 10;
+  }
+  .banner .banner-h1{
+    font-size: 4vw;
+    text-align: center;
+  
+  }
+  .banner .banner-text{
+    margin-top: 3vh;
+    font-size: small;
+    line-height: 1.7em;
+    margin: 0 5em 0 5em;
+    overflow-y: hidden;
+    text-overflow: ellipsis;   
+  }

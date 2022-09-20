@@ -1,0 +1,20 @@
+  
+  .card{
+    border: 1px solid rgb(143, 141, 141);
+    border-radius: 12px;
+    /* width: 100%; */
+  }
+  .facilities-card h3{
+    color: black;
+    min-height: 23vh;
+    text-align: center;
+    margin: auto auto;
+    font-weight:bold ;
+  }
+  .facilities-card img{
+   min-height:35vh;
+   max-height: 35vh;
+  }
+   .card-body{
+  min-height: 35vh;
+  }

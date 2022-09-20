@@ -1,0 +1,15 @@
+
+.nav-card{
+  background-color:rgb(97, 97, 175);
+  color: black;
+  z-index: 10;
+}
+.nav-card img{
+  height: 13vh;
+}
+.nav-card li a{
+  color: white;
+}
+.navbar-toggler.navbar-toggler{
+  border-color: white;
+}
